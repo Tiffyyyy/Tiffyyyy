@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiffyyyy
-- 👀 I’m interested in Programming and Graphic Designing
-- 🌱 I’m currently learning C Programming Language
+- 👀 
+- 🌱
 
                                  
 
